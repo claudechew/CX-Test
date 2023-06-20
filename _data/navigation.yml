@@ -1,15 +1,12 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/CXLogo.png
 links:
+  - title: Introduction
+    collection: introduction
+  - title: General Requirements
+    collection: general-requirements
+  - title: Specific Requirements
+    collection: specific-requirements
+  - title: References
+    collection: references
   - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+    url: https://support.corenet.gov.sg/hc/en-us
